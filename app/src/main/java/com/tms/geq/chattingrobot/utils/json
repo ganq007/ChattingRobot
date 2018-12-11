@@ -1,0 +1,32 @@
+{
+  "reqType": 0,
+  "perception": {
+    "inputText": {
+      "text": "附近的酒店"
+    },
+    "inputImage": {
+      "url": "imageUrl"
+    },
+    "selfInfo": {
+      "location": {
+        "city": "北京",
+        "province": "北京",
+        "street": "信息路"
+      }
+    }
+  },
+  "userInfo": {
+    "apiKey": "f3ab09a3fc794fc9acfacacd28de6de7",
+    "userId": "142"
+  }
+}
+
+
+
+
+{
+  "emotion":{"robotEmotion":{"a":0,"d":0,"emotionId":0,"p":0},"userEmotion":{"a":0,"d":0,"emotionId":0,"p":0}},
+  "intent":{"actionName":"","code":10004,"intentName":""},
+  "results":[{"groupType":1,"resultType":"text","values":{"text":"来了么？"}}]
+}
+
